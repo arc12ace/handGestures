@@ -1,0 +1,53 @@
+body
+{
+  color: white;
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px ridge navy;
+  width: 350px;
+  height: 300px; 
+  border-radius: 10px;
+}
+#result_hand_gesture ,#result_hand_gesture2  
+{
+  color: black;
+}
+.hand_gestures
+{
+  font-size: 40px;
+}
+.handGesture
+{
+  font-size:48px;
+}
+#heading{
+  font-size: 22px;
+  letter-spacing: 7px;
+  word-spacing: 10px;
+  border: 5px dashed whitesmoke;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: black;
+}
+label{
+  font-size: 18px;
+  background-color:black;
+  padding: 10px;
+  color: white;
+  border-radius: 15px;
+}
+.button{
+  font-size: 20px;
+  background-color:blueviolet;
+  color:cyan;
+  padding: 10px;
+  border-radius: 15px;
+  border-color: black;
+  
+}
